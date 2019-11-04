@@ -1,0 +1,3 @@
+[submodule "learn-nightwatch"]
+	path = learn-nightwatch
+	url = https://github.com/Kaljukits/learn-nightwatch.git
